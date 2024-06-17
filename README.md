@@ -19,7 +19,7 @@ Explore the Pokémon dataset to uncover interesting insights and solve the follo
 ### Implementation Details
 - **Data Preprocessing:** The dataset is preprocessed to handle any missing values.
 - **Train-Test Split:** The dataset is split into a training set and a test set.
-- **Model Training:** The Stacking Regressor model is defined along with RidgeCV estimator and is used to train the dataset.
+- **Model Training:** The RandomForest classifier model is used to train the dataset.
 - **Model Evaluation:** The trained model is evaluated on the test data to assess its performance in prediction.
 
 ### Requirements
